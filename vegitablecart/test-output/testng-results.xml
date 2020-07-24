@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43406" started-at="2020-07-24T15:36:13 IST" finished-at="2020-07-24T15:36:56 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43406" started-at="2020-07-24T15:36:13 IST" finished-at="2020-07-24T15:36:56 IST">
+      <class name="Ecom.Ecompurchase">
+        <test-method status="PASS" signature="start()[pri:0, instance:Ecom.Ecompurchase@610694f1]" name="start" is-config="true" duration-ms="18936" started-at="2020-07-24T15:36:13 IST" finished-at="2020-07-24T15:36:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="register()[pri:1, instance:Ecom.Ecompurchase@610694f1]" name="register" duration-ms="7987" started-at="2020-07-24T15:36:32 IST" finished-at="2020-07-24T15:36:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="login()[pri:2, instance:Ecom.Ecompurchase@610694f1]" name="login" duration-ms="6345" started-at="2020-07-24T15:36:40 IST" finished-at="2020-07-24T15:36:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="shopping()[pri:3, instance:Ecom.Ecompurchase@610694f1]" name="shopping" duration-ms="2725" started-at="2020-07-24T15:36:46 IST" finished-at="2020-07-24T15:36:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopping -->
+        <test-method status="PASS" signature="cart()[pri:0, instance:Ecom.Ecompurchase@610694f1]" name="cart" is-config="true" duration-ms="7361" started-at="2020-07-24T15:36:49 IST" finished-at="2020-07-24T15:36:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+      </class> <!-- Ecom.Ecompurchase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
